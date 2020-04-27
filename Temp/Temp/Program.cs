@@ -7,6 +7,8 @@ namespace Temp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int x = 0;
+            string lala = "";
         }
     }
 }
